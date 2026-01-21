@@ -177,7 +177,7 @@ fun MainScreen(
         }
     }
 
-    //  Список пунктов меню!
+    //  Список пунктов меню!!
     val menuItems = listOf(
         MenuItem(
             id = "home",
