@@ -11,6 +11,7 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+
     <!-- Тема Splash Screen -->
     <style name="Theme.Zapisulki.Splash" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/purple_500</item>
